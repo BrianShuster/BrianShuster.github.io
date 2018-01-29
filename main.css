@@ -17,12 +17,14 @@ border-style: double;
 
 h2 {
 	font-size: 32px;
+	border
 }
 
 
 .hero {
 	padding: 250px 0;
 	margin: 30px;
+	border-style: double;
 }
 
 
