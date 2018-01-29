@@ -11,20 +11,20 @@ h1 {
     'Palatino Linotype', serif;
    font-size: 32px;
   color: rgb(121,149,117);
-border-style: double;
+
   
 }
 
 h2 {
 	font-size: 32px;
-	border
+	border-style: double;
 }
 
 
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-	border-style: double;
+	
 }
 
 
