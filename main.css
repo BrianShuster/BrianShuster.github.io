@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	border-style: double;
+	
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
     'Palatino Linotype', serif;
    font-size: 32px;
   color: rgb(121,149,117);
-	border-style: double;
+border-style: double;
   
 }
 
